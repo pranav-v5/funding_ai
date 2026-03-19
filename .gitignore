@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# Vector DB
+chroma_db/
+
+# Streamlit
+.streamlit/
+
+# Large models (if any save)
+*.bin
+*.model
